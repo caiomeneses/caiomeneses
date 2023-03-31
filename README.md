@@ -11,8 +11,7 @@ Machine     -  MacBookPro M1 2020
 OS          -  macOS 13.1 Ventura
 Shell       -  zsh
 Location    -  Brazil
-Languages   -  Swift
-Frameworks  -  UIKit & SwiftUI
+Languages   -  Swift & Rust
 Learning    -  Currently studying more about Swift
 Hobbies     -  Listen music and gaming
 ```
