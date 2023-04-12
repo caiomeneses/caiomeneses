@@ -8,10 +8,10 @@
 caiomeneses@github
 -------------------------
 Machine     -  MacBookPro M1 2020
-OS          -  macOS 13.1 Ventura
+OS          -  macOS 13.3 Ventura
 Shell       -  zsh
 Location    -  Brazil
 Languages   -  Swift & Rust
-Learning    -  Currently studying more about Swift
+Learning    -  Currently procratinating
 Hobbies     -  Listen music and gaming
 ```
