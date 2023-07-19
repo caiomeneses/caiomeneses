@@ -8,7 +8,7 @@
 caiomeneses@github
 -------------------------
 Machine     -  MacBookPro M1 2020
-OS          -  macOS 13.3 Ventura
+OS          -  macOS 13.4.1 Ventura
 Shell       -  zsh
 Location    -  Brazil
 Languages   -  Swift & Rust
