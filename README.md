@@ -12,6 +12,6 @@ OS          -  macOS 13.4 Ventura
 Shell       -  zsh
 Location    -  Brazil
 Languages   -  Swift & Rust
-Learning    -  Currently working in PantanalAPI
+Learning    -  Currently working on PantanalAPI
 Hobbies     -  Listen music and gaming
 ```
