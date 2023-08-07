@@ -11,7 +11,7 @@ Machine     -  MacBookPro M1 2020
 OS          -  macOS 13.4 Ventura
 Shell       -  zsh
 Location    -  Brazil
-Languages   -  Swift & Rust
-Learning    -  Currently working on PantanalAPI
+Languages   -  Swift
+Learning    -  Currently studying SwiftUI 
 Hobbies     -  Listen music and gaming
 ```
