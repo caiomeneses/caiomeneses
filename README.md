@@ -10,7 +10,7 @@ caiomeneses@github
 Machine     -  MacBookPro M1 2020
 Shell       -  zsh
 Location    -  Brazil
-Languages   -  Swift
-Learning    -  Currently studying SwiftUI 
-Hobbies     -  Listen music and gaming
+Languages   -  Bash, Rust
+Learning    -  Currently studying for Linux+ and RHCSA Cert 
+Hobbies     -  Listen music
 ```
