@@ -7,10 +7,7 @@
 ```swift
 caiomeneses@github
 -------------------------
-Machine     -  MacBookPro M1 2020
+Machine     -  MacBookPro M5 Pro
 Shell       -  zsh
 Location    -  Brazil
-Languages   -  Bash, Rust
-Learning    -  Currently studying for Linux+ and RHCSA Cert 
-Hobbies     -  Listen music
 ```
